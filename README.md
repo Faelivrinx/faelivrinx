@@ -14,9 +14,9 @@
 
 <br />
 
-### Languages and Tools:
+## Languages and Tools:
 
-## Core
+### Core
 
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 <img align="left" alt="Javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
@@ -28,7 +28,9 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png" />
 
-## Basic knowledge
+<br />
+
+### Basic knowledge
 
 <img align="left" alt="Kotlin" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
@@ -37,6 +39,7 @@
 
 <br />
 <br />
+
 ---
 
 <details>
@@ -45,6 +48,8 @@
   <img align="left" alt="faelivrinx github stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=faelivrinx&show_icons=true&hide_border=true" />
 
 </details>
+
+<br />
 
 <details>
   <summary>:zap: Recent Github Activity</summary>
