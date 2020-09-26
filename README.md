@@ -39,6 +39,7 @@
 
 <br />
 <br />
+
 ---
 
 <details>
@@ -47,6 +48,8 @@
   <img align="left" alt="faelivrinx github stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=faelivrinx&show_icons=true&hide_border=true" />
 
 </details>
+
+<br />
 
 <details>
   <summary>:zap: Recent Github Activity</summary>
