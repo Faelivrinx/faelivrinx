@@ -8,13 +8,13 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - 💬 Ask me about Java, Spring Boot, Microservices, CI/CD, Architecture, Project Management
 
-### :telephone_receiver:  Connect with me:
+### Connect with me:
 
 [<img align="left" alt="dominik-jurasz | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
-### 🔥 Languages and Tools:
+### Languages and Tools:
 
 ## :key: Core
 
