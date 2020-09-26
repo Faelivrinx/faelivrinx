@@ -1,9 +1,9 @@
-### Hello there, I'm Dominik and welcome on my profile! 👋
+### Hello there, I'm Dominik 👋
 
 ## I'm a Developer and open-source contributor!
 
 - 🔭 I’m currently working with microservices (Java, Spring Boot, Openshift)
-- 🌱 I'm currenlty learning [things](https://github.com/Faelivrinx/faelivrinx#start-learning) 
+- 🌱 I'm currenlty learning [things](https://github.com/Faelivrinx/faelivrinx#growing) 
 - 🚀 I always look for opportunities to learn new things
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - 💬 Ask me about Java, Spring Boot, Microservices, CI/CD, Architecture, Project Management
@@ -30,7 +30,7 @@
 
 <br />
 
-### Start learning
+### Growing
 
 <img align="left" alt="Kotlin" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
