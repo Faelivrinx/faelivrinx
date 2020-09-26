@@ -46,11 +46,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/Faelivrinx/spring-sonarcloud/pull/3) in [Faelivrinx/spring-sonarcloud](https://github.com/Faelivrinx/spring-sonarcloud)
-2. 💪 Opened PR [#3](https://github.com/Faelivrinx/spring-sonarcloud/pull/3) in [Faelivrinx/spring-sonarcloud](https://github.com/Faelivrinx/spring-sonarcloud)
-3. ❌ Closed PR [#2](https://github.com/Faelivrinx/spring-sonarcloud/pull/2) in [Faelivrinx/spring-sonarcloud](https://github.com/Faelivrinx/spring-sonarcloud)
-4. 💪 Opened PR [#2](https://github.com/Faelivrinx/spring-sonarcloud/pull/2) in [Faelivrinx/spring-sonarcloud](https://github.com/Faelivrinx/spring-sonarcloud)
-5. ❌ Closed PR [#1](https://github.com/Faelivrinx/spring-sonarcloud/pull/1) in [Faelivrinx/spring-sonarcloud](https://github.com/Faelivrinx/spring-sonarcloud)
+1. 🎉 Merged PR [#10](https://github.com/Faelivrinx/typescript-nodejs-template/pull/10) in [Faelivrinx/typescript-nodejs-template](https://github.com/Faelivrinx/typescript-nodejs-template)
+2. 💪 Opened PR [#10](https://github.com/Faelivrinx/typescript-nodejs-template/pull/10) in [Faelivrinx/typescript-nodejs-template](https://github.com/Faelivrinx/typescript-nodejs-template)
+3. ❗️ Closed issue [#8](https://github.com/Faelivrinx/typescript-nodejs-template/issues/8) in [Faelivrinx/typescript-nodejs-template](https://github.com/Faelivrinx/typescript-nodejs-template)
+4. 🎉 Merged PR [#9](https://github.com/Faelivrinx/typescript-nodejs-template/pull/9) in [Faelivrinx/typescript-nodejs-template](https://github.com/Faelivrinx/typescript-nodejs-template)
+5. 💪 Opened PR [#9](https://github.com/Faelivrinx/typescript-nodejs-template/pull/9) in [Faelivrinx/typescript-nodejs-template](https://github.com/Faelivrinx/typescript-nodejs-template)
 <!--END_SECTION:activity-->
 
 </details>
