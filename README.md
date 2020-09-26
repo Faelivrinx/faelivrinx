@@ -43,15 +43,6 @@
 ---
 
 <details>
-  <summary>:zap: Github Stats</summary>
-
-  <img align="left" alt="faelivrinx github stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=faelivrinx&show_icons=true&hide_border=true" />
-
-</details>
-
-<br />
-
-<details>
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
@@ -61,6 +52,15 @@
 4. 💪 Opened PR [#2](https://github.com/Faelivrinx/spring-sonarcloud/pull/2) in [Faelivrinx/spring-sonarcloud](https://github.com/Faelivrinx/spring-sonarcloud)
 5. ❌ Closed PR [#1](https://github.com/Faelivrinx/spring-sonarcloud/pull/1) in [Faelivrinx/spring-sonarcloud](https://github.com/Faelivrinx/spring-sonarcloud)
 <!--END_SECTION:activity-->
+
+</details>
+
+<br />
+
+<details>
+  <summary>:zap: Github Stats</summary>
+
+  <img align="left" alt="faelivrinx github stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=faelivrinx&show_icons=true&hide_border=true" />
 
 </details>
 
