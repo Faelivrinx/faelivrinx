@@ -46,11 +46,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/Faelivrinx/typescript-nodejs-template/pull/10) in [Faelivrinx/typescript-nodejs-template](https://github.com/Faelivrinx/typescript-nodejs-template)
-2. 💪 Opened PR [#10](https://github.com/Faelivrinx/typescript-nodejs-template/pull/10) in [Faelivrinx/typescript-nodejs-template](https://github.com/Faelivrinx/typescript-nodejs-template)
-3. ❗️ Closed issue [#8](https://github.com/Faelivrinx/typescript-nodejs-template/issues/8) in [Faelivrinx/typescript-nodejs-template](https://github.com/Faelivrinx/typescript-nodejs-template)
-4. 🎉 Merged PR [#9](https://github.com/Faelivrinx/typescript-nodejs-template/pull/9) in [Faelivrinx/typescript-nodejs-template](https://github.com/Faelivrinx/typescript-nodejs-template)
-5. 💪 Opened PR [#9](https://github.com/Faelivrinx/typescript-nodejs-template/pull/9) in [Faelivrinx/typescript-nodejs-template](https://github.com/Faelivrinx/typescript-nodejs-template)
+1. ❗️ Opened issue [#1](https://github.com/Faelivrinx/hexagonal-spring/issues/1) in [Faelivrinx/hexagonal-spring](https://github.com/Faelivrinx/hexagonal-spring)
+2. 🎉 Merged PR [#10](https://github.com/Faelivrinx/typescript-nodejs-template/pull/10) in [Faelivrinx/typescript-nodejs-template](https://github.com/Faelivrinx/typescript-nodejs-template)
+3. 💪 Opened PR [#10](https://github.com/Faelivrinx/typescript-nodejs-template/pull/10) in [Faelivrinx/typescript-nodejs-template](https://github.com/Faelivrinx/typescript-nodejs-template)
+4. ❗️ Closed issue [#8](https://github.com/Faelivrinx/typescript-nodejs-template/issues/8) in [Faelivrinx/typescript-nodejs-template](https://github.com/Faelivrinx/typescript-nodejs-template)
+5. 🎉 Merged PR [#9](https://github.com/Faelivrinx/typescript-nodejs-template/pull/9) in [Faelivrinx/typescript-nodejs-template](https://github.com/Faelivrinx/typescript-nodejs-template)
 <!--END_SECTION:activity-->
 
 </details>
