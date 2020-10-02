@@ -46,11 +46,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Programmers-Only-Group/mentorship/pull/1) in [Programmers-Only-Group/mentorship](https://github.com/Programmers-Only-Group/mentorship)
-2. 💪 Opened PR [#1](https://github.com/Programmers-Only-Group/mentorship/pull/1) in [Programmers-Only-Group/mentorship](https://github.com/Programmers-Only-Group/mentorship)
-3. ❗️ Opened issue [#1](https://github.com/Faelivrinx/hexagonal-spring/issues/1) in [Faelivrinx/hexagonal-spring](https://github.com/Faelivrinx/hexagonal-spring)
-4. 🎉 Merged PR [#10](https://github.com/Faelivrinx/typescript-nodejs-template/pull/10) in [Faelivrinx/typescript-nodejs-template](https://github.com/Faelivrinx/typescript-nodejs-template)
-5. 💪 Opened PR [#10](https://github.com/Faelivrinx/typescript-nodejs-template/pull/10) in [Faelivrinx/typescript-nodejs-template](https://github.com/Faelivrinx/typescript-nodejs-template)
+1. 🎉 Merged PR [#2](https://github.com/Programmers-Only-Group/mentorship/pull/2) in [Programmers-Only-Group/mentorship](https://github.com/Programmers-Only-Group/mentorship)
+2. 💪 Opened PR [#2](https://github.com/Programmers-Only-Group/mentorship/pull/2) in [Programmers-Only-Group/mentorship](https://github.com/Programmers-Only-Group/mentorship)
+3. 🎉 Merged PR [#1](https://github.com/Programmers-Only-Group/mentorship/pull/1) in [Programmers-Only-Group/mentorship](https://github.com/Programmers-Only-Group/mentorship)
+4. 💪 Opened PR [#1](https://github.com/Programmers-Only-Group/mentorship/pull/1) in [Programmers-Only-Group/mentorship](https://github.com/Programmers-Only-Group/mentorship)
+5. ❗️ Opened issue [#1](https://github.com/Faelivrinx/hexagonal-spring/issues/1) in [Faelivrinx/hexagonal-spring](https://github.com/Faelivrinx/hexagonal-spring)
 <!--END_SECTION:activity-->
 
 </details>
