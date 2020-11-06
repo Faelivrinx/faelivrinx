@@ -46,11 +46,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/Programmers-Only-Group/mentorship/pull/5) in [Programmers-Only-Group/mentorship](https://github.com/Programmers-Only-Group/mentorship)
-2. 💪 Opened PR [#5](https://github.com/Programmers-Only-Group/mentorship/pull/5) in [Programmers-Only-Group/mentorship](https://github.com/Programmers-Only-Group/mentorship)
-3. 🎉 Merged PR [#4](https://github.com/Programmers-Only-Group/mentorship/pull/4) in [Programmers-Only-Group/mentorship](https://github.com/Programmers-Only-Group/mentorship)
-4. 💪 Opened PR [#4](https://github.com/Programmers-Only-Group/mentorship/pull/4) in [Programmers-Only-Group/mentorship](https://github.com/Programmers-Only-Group/mentorship)
-5. 🗣 Commented on [#12274](https://github.com/jhipster/generator-jhipster/issues/12274) in [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster)
+1. 🎉 Merged PR [#7](https://github.com/Programmers-Only-Group/mentorship/pull/7) in [Programmers-Only-Group/mentorship](https://github.com/Programmers-Only-Group/mentorship)
+2. 💪 Opened PR [#7](https://github.com/Programmers-Only-Group/mentorship/pull/7) in [Programmers-Only-Group/mentorship](https://github.com/Programmers-Only-Group/mentorship)
+3. 🎉 Merged PR [#6](https://github.com/Programmers-Only-Group/mentorship/pull/6) in [Programmers-Only-Group/mentorship](https://github.com/Programmers-Only-Group/mentorship)
+4. 💪 Opened PR [#6](https://github.com/Programmers-Only-Group/mentorship/pull/6) in [Programmers-Only-Group/mentorship](https://github.com/Programmers-Only-Group/mentorship)
+5. 🎉 Merged PR [#5](https://github.com/Programmers-Only-Group/mentorship/pull/5) in [Programmers-Only-Group/mentorship](https://github.com/Programmers-Only-Group/mentorship)
 <!--END_SECTION:activity-->
 
 </details>
