@@ -46,11 +46,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#12](https://github.com/Programmers-Only-Group/mentorship/pull/12) in [Programmers-Only-Group/mentorship](https://github.com/Programmers-Only-Group/mentorship)
-2. 🎉 Merged PR [#11](https://github.com/Programmers-Only-Group/mentorship/pull/11) in [Programmers-Only-Group/mentorship](https://github.com/Programmers-Only-Group/mentorship)
-3. 💪 Opened PR [#11](https://github.com/Programmers-Only-Group/mentorship/pull/11) in [Programmers-Only-Group/mentorship](https://github.com/Programmers-Only-Group/mentorship)
-4. 🎉 Merged PR [#10](https://github.com/Programmers-Only-Group/mentorship/pull/10) in [Programmers-Only-Group/mentorship](https://github.com/Programmers-Only-Group/mentorship)
-5. 💪 Opened PR [#10](https://github.com/Programmers-Only-Group/mentorship/pull/10) in [Programmers-Only-Group/mentorship](https://github.com/Programmers-Only-Group/mentorship)
+1. 🎉 Merged PR [#13](https://github.com/Programmers-Only-Group/mentorship/pull/13) in [Programmers-Only-Group/mentorship](https://github.com/Programmers-Only-Group/mentorship)
+2. 💪 Opened PR [#13](https://github.com/Programmers-Only-Group/mentorship/pull/13) in [Programmers-Only-Group/mentorship](https://github.com/Programmers-Only-Group/mentorship)
+3. ❌ Closed PR [#12](https://github.com/Programmers-Only-Group/mentorship/pull/12) in [Programmers-Only-Group/mentorship](https://github.com/Programmers-Only-Group/mentorship)
+4. 💪 Opened PR [#12](https://github.com/Programmers-Only-Group/mentorship/pull/12) in [Programmers-Only-Group/mentorship](https://github.com/Programmers-Only-Group/mentorship)
+5. 🎉 Merged PR [#11](https://github.com/Programmers-Only-Group/mentorship/pull/11) in [Programmers-Only-Group/mentorship](https://github.com/Programmers-Only-Group/mentorship)
 <!--END_SECTION:activity-->
 
 </details>
