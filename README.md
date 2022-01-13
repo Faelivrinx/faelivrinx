@@ -5,7 +5,7 @@
 - 🔭 I’m currently working with microservices (Java, Spring Boot, Openshift)
 - 🌱 I'm currenlty learning [things](https://github.com/Faelivrinx/faelivrinx#growing) 
 - 🚀 I always look for opportunities to learn new things
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - 💬 Ask me about Java, Spring Boot, Microservices, CI/CD, Architecture, Project Management
 
 ### Connect with me:
