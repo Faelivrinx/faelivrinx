@@ -11,6 +11,10 @@
 ### Connect with me:
 
 [<img align="left" alt="dominik-jurasz | LinkedIn" width="22px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" />][linkedin]
+[<img align="left" alt="dominik-jurasz | LinkedIn" width="22px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Twitter.svg" />][twitter]
+
+
+
 
 <br />
 
@@ -39,3 +43,4 @@
 <br />
 
 [linkedin]: https://www.linkedin.com/in/dominik-jurasz/
+[twitter]: https://twitter.com/dominik_dev_
