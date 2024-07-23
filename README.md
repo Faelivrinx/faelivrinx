@@ -1,7 +1,7 @@
 ### Hello there, I'm Dominik 👋
 
 ## I'm a Developer and aspiring blogger 
-[Blog - Devcrusade](https://devcrusade.com/)
+
 - 🔭 I’m currently working with Java (Java, Spring Boot)
 - 🌱 I'm currenlty learning [things](https://github.com/Faelivrinx/faelivrinx#growing) 
 - 🚀 I always look for opportunities to learn new things
