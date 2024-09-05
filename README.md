@@ -1,6 +1,7 @@
 ### Hello there, I'm Dominik 👋
+website: [dominikdev.com](https://dominikdev.com)
 
-## I'm a Developer and aspiring blogger 
+## I'm a Developer
 
 - 🔭 I’m currently working with Java (Java, Spring Boot)
 - 🌱 I'm currenlty learning [things](https://github.com/Faelivrinx/faelivrinx#growing) 
